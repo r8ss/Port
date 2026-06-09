@@ -1,0 +1,12 @@
+{
+  "rom_name": "MonsterRom 3.0.6",
+  "rom_device": "o1s",
+  "rom_version": "3.0.6",
+  "rom_latest": 20260609,
+  "banner_img": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1080",
+  "changelog_md": "Added UniUpdater",
+  "download_url": "https://monsterrom.sourceforge.com/update.zip",
+  "file_size": "6.3GB",
+  "sha256": "",
+  "rom_date": "June 9, 2026"
+}
